@@ -4,7 +4,7 @@ public class Main {
         short s = 150;
         long l = 54217;
         double d = 12.648;
-        float f = (float) 277.642f;
+        float f = 277.642f;
 
         System.out.println("  b + s= " + (b + s));
         System.out.println("  b + l= " + (b + l));
